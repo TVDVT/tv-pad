@@ -19,3 +19,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_KB_VOLUME_UP,   KC_MEDIA_PLAY_PAUSE, KC_KB_VOLUME_DOWN
     ) 
 };
+
+#ifdef OLED_ENABLE
+
+bool oled_task_user(void) {
+    oled_write_P(PSTR("(O__O)"), false);
+    return false;
+}
+
+#endif

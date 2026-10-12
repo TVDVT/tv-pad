@@ -2,6 +2,11 @@
 The tv-pad is a 9 key macropad with an OLED display, and uses QMK firmware.
 It's main purpose it to help with note taking on 2 in 1 laptops, but can be reprogrammed with any keys.
 
+This project was made for Hack Club Stardance!
+
+# Demo
+https://youtube.com/shorts/lUIq6G4Zl5c?si=yzHyjfCIUw9PWCoL
+
 # Features:
 - 9 keys
 - 128x32 OLED display

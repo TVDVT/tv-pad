@@ -28,12 +28,15 @@ PCB
 I used QMK for the firmware.
 <img width="856" height="493" alt="image" src="https://github.com/user-attachments/assets/6c3a2c1e-85cc-4205-ad1f-f71e04f6d12b" />
 
-# BOM:
-- 9x Cherry MX Switches
-- 9x DSA keycaps
-- 1x 0.91" 128x32 OLED Display
-- 4x M3x5mx4mm heatset inserts
-- 4x M3x16mm SHCS Bolts
-- 6x 1N4148 DO-35 Diodes
-- 1x Seeed XIAO RP2040
-- 1x Case (2 printed parts)
+# Bill of Materials (BOM)
+
+| Qty | Part |
+|-----|------|
+| 9 | Cherry MX Switches |
+| 9 | DSA Keycaps |
+| 1 | 0.91" 128x32 OLED Display |
+| 4 | M3x5mx4mm Heatset Inserts |
+| 4 | M3x16mm SHCS Bolts |
+| 6 | 1N4148 DO-35 Diodes |
+| 1 | Seeed XIAO RP2040 |
+| 1 | Case (2 Printed Parts) |

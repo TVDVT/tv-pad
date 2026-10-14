@@ -2,7 +2,8 @@
     "manufacturer": "TVDVT",
     "keyboard_name": "tvd",
     "maintainer": "TVDVT",
-    "development_board": "rp2040",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -11,10 +12,10 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP26", "GP27", "GP28"],
-        "rows": ["GP29", "GP0", "GP1"]
+        "cols": ["GP29", "GP0", "GP1"],
+        "rows": ["GP26", "GP27", "GP28"]
     },
-    "url": "",
+    "url": "https://github.com/TVDVT/tv-pad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",

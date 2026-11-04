@@ -30,13 +30,14 @@ I used QMK for the firmware.
 
 # Bill of Materials (BOM)
 
-| Qty | Part |
-|-----|------|
-| 9 | Cherry MX Switches |
-| 9 | DSA Keycaps |
-| 1 | 0.91" 128x32 OLED Display |
-| 4 | M3x5mx4mm Heatset Inserts |
-| 4 | M3x16mm SHCS Bolts |
-| 6 | 1N4148 DO-35 Diodes |
-| 1 | Seeed XIAO RP2040 |
-| 1 | Case (2 Printed Parts) |
+| Qty | Part | Supplier | Cost (USD) | Link |
+|-----|------|----------|------------|------|
+| 9 | Cherry MX Switches | AliExpress | $0.69 | https://www.aliexpress.com/item/1005009946528694.html |
+| 9 | DSA Keycaps | AliExpress | $1.01 | https://www.aliexpress.com/item/1005013381162174.html |
+| 1 | 0.91 in 128x32 OLED Display | AliExpress | $8.71 | https://www.aliexpress.com/item/1005008640108394.html |
+| 4 | M3x5x4mm Heatset Inserts | AliExpress | $0.48 | https://www.aliexpress.com/item/1005011959188413.html |
+| 4 | M3x16mm SHCS Bolts | AliExpress | $0.40 | https://www.aliexpress.com/item/1005012367821308.html |
+| 6 | 1N4148 DO-35 Diodes | AliExpress | $0.72 | https://www.aliexpress.com/item/1005009379098965.html |
+| 1 | Seeed XIAO RP2040 | AliExpress | $4.99 | https://www.aliexpress.com/item/1005013232776575.html |
+| 1 | Case (2 Printed Parts) | Printing Legion | |  |
+|  |  | **Total (excluding case)** | **$17.00** |  |

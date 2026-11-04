@@ -1,3 +1,5 @@
+<img width="1290" height="1585" alt="IMG_6217" src="https://github.com/user-attachments/assets/5b50336c-bcbd-442c-a522-df2c8efb120e" />
+
 # tv-pad
 The tv-pad is a 9 key macropad with an OLED display, and uses QMK firmware.
 It's main purpose it to help with note taking on 2 in 1 laptops, but can be reprogrammed with any keys.
